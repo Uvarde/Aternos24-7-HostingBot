@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "AventuraYT",
   "bot-account": {
-    "username": "Herobrine",
+    "username": "AventuraYT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Netherracksquad.aternos.me",
