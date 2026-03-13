@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Herobrine",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Netherracksquad.aternos.me",
