@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "Netherracksquad.aternos.me:14758",
+    "ip": "Netherracksquad.aternos.me",
     "port": 14758,
     "version": "",
     "try-creative": false
